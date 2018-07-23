@@ -22,6 +22,7 @@ catkin_python_setup()
    WIND.msg
    PRESSURE.msg
    N2KInfo.msg
+   Heading.msg
  )
 
 
