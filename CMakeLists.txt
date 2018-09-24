@@ -23,6 +23,7 @@ catkin_python_setup()
    PRESSURE.msg
    N2KInfo.msg
    Heading.msg
+   Speed.msg
  )
 
 
