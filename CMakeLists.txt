@@ -26,6 +26,12 @@ catkin_python_setup()
    Speed.msg
  )
 
+## Generate services in the 'srv' folder
+ add_service_files(
+   FILES
+   StateRequest.srv
+ )
+
 
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
