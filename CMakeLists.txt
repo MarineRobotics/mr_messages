@@ -31,6 +31,7 @@ catkin_python_setup()
    FILES
    StateRequest.srv
    RoboclawPortRequest.srv
+   BondIDRequest.srv
  )
 
 
