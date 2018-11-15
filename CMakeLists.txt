@@ -24,6 +24,8 @@ catkin_python_setup()
    N2KInfo.msg
    Heading.msg
    Speed.msg
+   Position.msg
+   GNSSData.msg
  )
 
 ## Generate services in the 'srv' folder
