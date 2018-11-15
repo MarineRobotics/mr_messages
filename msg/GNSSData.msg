@@ -1,5 +1,7 @@
+time N2K_time
+int16 src
 Position position
-string data
+string date
 string gps_time
 string gnss_type
 int32 num_sats
