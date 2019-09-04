@@ -28,6 +28,7 @@ catkin_python_setup()
    GNSSData.msg
    ADCReading.msg
    Depth.msg
+   RoboclawStatus.msg
  )
 
 ## Generate services in the 'srv' folder
