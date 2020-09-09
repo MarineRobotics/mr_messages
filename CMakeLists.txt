@@ -29,6 +29,8 @@ catkin_python_setup()
    ADCReading.msg
    Depth.msg
    RoboclawStatus.msg
+   TEMP.msg
+   HUMIDITY.msg
  )
 
 ## Generate services in the 'srv' folder
