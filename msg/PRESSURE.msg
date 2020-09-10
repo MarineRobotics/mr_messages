@@ -1,3 +1,3 @@
 time N2K_time
 int16 src
-int32 pressure
+float32 pressure
