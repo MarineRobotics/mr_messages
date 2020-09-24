@@ -31,6 +31,7 @@ catkin_python_setup()
    RoboclawStatus.msg
    TEMP.msg
    HUMIDITY.msg
+   Declination.msg
  )
 
 ## Generate services in the 'srv' folder
