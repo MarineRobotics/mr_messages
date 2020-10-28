@@ -32,6 +32,7 @@ catkin_python_setup()
    TEMP.msg
    HUMIDITY.msg
    Declination.msg
+   DigitalReading.msg
  )
 
 ## Generate services in the 'srv' folder
