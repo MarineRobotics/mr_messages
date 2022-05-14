@@ -34,6 +34,7 @@ catkin_python_setup()
    Declination.msg
    DigitalReading.msg
    NodeStatus.msg
+   PID.msg
  )
 
 ## Generate services in the 'srv' folder
